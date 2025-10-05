@@ -1,1 +1,1 @@
-# CodeTemplate
+# SlateTabWindowSample
