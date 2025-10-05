@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SlateTabWindowSample",
+	"Description": "",
+	"Category": "Editor",
+	"CreatedBy": "Keita Nakamura",
+	"CreatedByURL": "https://github.com/KTA552/UE-SlateTabWindowSample",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SlateTabWindowSample",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
