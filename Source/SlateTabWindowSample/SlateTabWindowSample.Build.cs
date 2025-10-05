@@ -38,6 +38,9 @@ public class SlateTabWindowSample : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore",
+				"ToolMenus",
+				"UMG",
+				"UMGEditor",
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
