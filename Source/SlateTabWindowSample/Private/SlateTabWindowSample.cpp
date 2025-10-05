@@ -1,4 +1,4 @@
-﻿// Copyright Epic Games, Inc. All Rights Reserved.
+﻿// Copyright (c) 2025 Keita Nakamura
 
 #include "SlateTabWindowSample.h"
 #include "TabWindow.h"
